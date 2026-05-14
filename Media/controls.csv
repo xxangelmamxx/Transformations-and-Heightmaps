@@ -1,0 +1,7 @@
+key,axis,no_modifier,ctrl,alt
+U,x,rotate_pos,translate_pos,scale_pos
+J,x,rotate_neg,translate_neg,scale_neg
+I,y,rotate_pos,translate_pos,scale_pos
+K,y,rotate_neg,translate_neg,scale_neg
+O,z,rotate_pos,translate_pos,scale_pos
+L,z,rotate_neg,translate_neg,scale_neg

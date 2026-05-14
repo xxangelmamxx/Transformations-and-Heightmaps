@@ -1,0 +1,16 @@
+README.md
+setup.py
+proj1/__init__.py
+proj1/camera.py
+proj1/engine.py
+proj1/model.py
+proj1/scene.py
+proj1/shader.py
+proj1/texture.py
+proj1/util.py
+proj1/vao.py
+proj1/vbo.py
+proj1.egg-info/PKG-INFO
+proj1.egg-info/SOURCES.txt
+proj1.egg-info/dependency_links.txt
+proj1.egg-info/top_level.txt
