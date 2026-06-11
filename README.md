@@ -16,7 +16,7 @@ When the program runs, it opens an OpenGL window and renders a small 3D world co
 
 ## Abstract
 
-This study investigates the relationship between object-space geometry, world-space transformations, camera-space viewing, projection, texture mapping, and terrain generation. The application renders a scene using ModernGL and demonstrates how the GPU receives structured vertex data through vertex buffer objects, how shaders convert that data into pixels, and how matrix operations control the final placement of objects on the screen.
+This project investigates the relationship between object-space geometry, world-space transformations, camera-space viewing, projection, texture mapping, and terrain generation. The application renders a scene using ModernGL and demonstrates how the GPU receives structured vertex data through vertex buffer objects, how shaders convert that data into pixels, and how matrix operations control the final placement of objects on the screen.
 
 The central idea is that a 3D scene is not stored as a picture. It is built from mathematical data. Cubes are defined by vertices and texture coordinates. The terrain is produced from image brightness values. The camera is represented by view and projection matrices. The final image appears only after the vertex shader, fragment shader, textures, and transformation matrices work together during rendering.
 
@@ -28,7 +28,7 @@ The project focuses on three connected topics:
 
 ---
 
-## Research Focus
+## Focus
 
 The project is organized around the following graphics questions:
 
