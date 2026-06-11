@@ -1,5 +1,15 @@
 # A Study of 3D Transformations and Heightmap-Based Terrain Rendering
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pygame-00A300?logo=python&logoColor=white" alt="Pygame">
+  <img src="https://img.shields.io/badge/ModernGL-5586A4?logo=opengl&logoColor=white" alt="ModernGL">
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white" alt="OpenGL">
+  <img src="https://img.shields.io/badge/PyGLM-4B8BBE?logo=python&logoColor=white" alt="PyGLM">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pillow-8A2BE2?logo=python&logoColor=white" alt="Pillow">
+</p>
+
 This project is an interactive 3D graphics study built with Python, Pygame, ModernGL, PyGLM, NumPy, and Pillow. It explores how a real-time scene is assembled from vertex data, shader programs, textures, transformation matrices, camera movement, and image-based terrain generation.
 
 Rather than treating the scene as a finished game or isolated assignment, this repository studies the graphics pipeline step by step. The program shows how multiple textured cubes can be transformed in 3D space, how a camera can move through the world, how a skybox can create the illusion of a surrounding environment, and how a grayscale image can be interpreted as terrain height data.
@@ -13,6 +23,7 @@ python Project1.py
 When the program runs, it opens an OpenGL window and renders a small 3D world containing textured cubes, a surrounding skybox, and a heightmap-generated surface.
 
 ---
+
 
 ## Abstract
 
