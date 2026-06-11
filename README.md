@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/Pillow-8A2BE2?logo=python&logoColor=white" alt="Pillow">
 </p>
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b8264a31-1ea8-4b6f-8704-01e5d02938ce" width = "500"/>
+</p>
+
 This project is an interactive 3D graphics study built with Python, Pygame, ModernGL, PyGLM, NumPy, and Pillow. It explores how a real-time scene is assembled from vertex data, shader programs, textures, transformation matrices, camera movement, and image-based terrain generation.
 
 Rather than treating the scene as a finished game or isolated assignment, this repository studies the graphics pipeline step by step. The program shows how multiple textured cubes can be transformed in 3D space, how a camera can move through the world, how a skybox can create the illusion of a surrounding environment, and how a grayscale image can be interpreted as terrain height data.
